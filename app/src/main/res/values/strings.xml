@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RetrofitExample</string>
+    <string name="temp">%1$s ℃</string>
+    <string name="humidity">Влажность %1$s проц</string>
+    <string name="wind">Скорость ветра %1$s м/с</string>
+    <string name="city_name">Enter your city name</string>
+</resources>
